@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "メトロノーム",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-17T06:54:41.544950Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メトロノーム",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_メトロノーム_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メトロノーム",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_メトロノーム_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "メトロノーム",
+      "artist": "Scandal",
+      "has_synced": true,
+      "path": "select/03_メトロノーム_Scandal.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "メトロノーム",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/04_メトロノーム_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "5. メトロノーム",
+      "artist": "SCANDAL",
+      "has_synced": false,
+      "path": "select/05_5._メトロノーム_SCANDAL.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "メトロノーム",
+      "artist": "魂音泉",
+      "has_synced": true,
+      "path": "select/06_メトロノーム_魂音泉.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "メトロノーム (feat. 雨天決行)",
+      "artist": "魂音泉",
+      "has_synced": true,
+      "path": "select/07_メトロノーム_(feat._雨天決行)_魂音泉.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "メトロノーム - Metronome",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/08_メトロノーム_-_Metronome_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メトロノーム",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_メトロノーム_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "メトロノーム",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_メトロノーム_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "メトロノーム",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_03_メトロノーム_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "メトロノーム",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_04_メトロノーム_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "メトロノーム",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_05_メトロノーム_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "メトロノーム",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_06_メトロノーム_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "メトロノーム",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_07_メトロノーム_米津玄師.txt"
+    }
+  ]
+}
